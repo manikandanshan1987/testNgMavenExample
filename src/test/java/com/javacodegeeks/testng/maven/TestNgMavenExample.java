@@ -6,6 +6,6 @@ public class TestNgMavenExample {
 
 	@Test
 	public void exampleOfTestNgMaven() {
-		println("This is TestNG-Maven Example");
+		System.out.println("This is TestNG-Maven Example");
 	}
 }
